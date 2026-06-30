@@ -1,4 +1,4 @@
-give the full code 
+
 <h1 align="center">Ved Mewada</h1>
 
 <p align="center">
