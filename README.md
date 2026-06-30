@@ -1,8 +1,7 @@
-
 <h1 align="center">Ved Mewada</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ved+Mewada;Computer+Science+Engineering+Student+%40+VIT+Chennai;Full-Stack+Developer+%7C+Competitive+Programmer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ved+Mewada;Computer+Science+Engineering+Student+%40+VIT+Chennai;Aspiring+Full-Stack+Developer+%7C+Problem+Solver" />
 </p>
 
 <p align="center">
@@ -27,10 +26,10 @@
 
 <h2 align="center">About</h2>
 
-- Second-year CSE student at VIT Chennai.
-- Interested in full-stack development, competitive programming, and software engineering.
-- Building projects while strengthening CS fundamentals.
-- Exploring modern web technologies and backend systems.
+- First-year CSE student at VIT Chennai.
+- Passionate about software engineering and problem solving.
+- Interested in full-stack development, databases and scalable systems.
+- Building projects while strengthening core CS fundamentals.
 
 ---
 
@@ -45,41 +44,33 @@
 <h2 align="center">GitHub Insights</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ved-mewada&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ved-mewada&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ved-mewada&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-mewada&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ved-mewada&theme=github-compact&hide_border=true&line=0A66C2&point=0A66C2&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ved-mewada&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
 <h2 align="center">Core Interests</h2>
 
-- Full-stack web development
-- Competitive programming
+- Full-Stack Web Development
 - Data Structures & Algorithms
 - UI/UX Design
-- Backend APIs and Databases
-- Open Source and Collaboration
+- Backend APIs
+- Databases
+- Open Source
 
 ---
 
 <h2 align="center">Learning Roadmap</h2>
 
-- Strengthening DSA with C++
+- Strengthening DSA in C++
 - Building production-ready projects
-- Learning React and Node.js
+- Learning React ecosystem
 - Exploring PostgreSQL and Supabase
-- Contributing to open source
+- Contributing to Open Source
 
 ---
 
@@ -88,4 +79,3 @@
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Ved_mewada1?theme=dark&font=JetBrains+Mono&ext=contest"/>
 </p>
-
