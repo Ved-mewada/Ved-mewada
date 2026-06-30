@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 💫 About Me
@@ -59,4 +59,4 @@ Computer Science Engineering · VIT Chennai
 <img src="https://leetcard.jacoblin.cool/Ved_mewada1?theme=dark&font=Hubballi&ext=contest" />
 
 </div>
-```
+
