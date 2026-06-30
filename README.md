@@ -27,8 +27,8 @@
 
 <h2 align="center">About</h2>
 
-- First-year CSE student at VIT Chennai.
-- Interested in full-stack development, DSA, and software engineering.
+- Second-year CSE student at VIT Chennai.
+- Interested in full-stack development, competitive programming, and software engineering.
 - Building projects while strengthening CS fundamentals.
 - Exploring modern web technologies and backend systems.
 
@@ -65,6 +65,7 @@
 <h2 align="center">Core Interests</h2>
 
 - Full-stack web development
+- Competitive programming
 - Data Structures & Algorithms
 - UI/UX Design
 - Backend APIs and Databases
