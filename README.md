@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫                                                      About Me:
 Ved Mewada<br>Computer Science Engineering · VIT Chennai<br>
 
 
@@ -15,4 +15,5 @@ Ved Mewada<br>Computer Science Engineering · VIT Chennai<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+LeetCode : 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ved_mewada1?theme=dark&font=Hubballi&ext=contest)
