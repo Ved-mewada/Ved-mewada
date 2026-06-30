@@ -1,12 +1,8 @@
-
+give the full code 
 <h1 align="center">Ved Mewada</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ved+Mewada;Computer+Science+Engineering+Student+%40+VIT+Chennai;Aspiring+Full-Stack+Developer+%7C+Competitive+Programmer" />
-</p>
-
-<p align="center">
-  <img src="./assets/snake-purple.svg" width="900"/>
 </p>
 
 <p align="center">
