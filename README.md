@@ -1,62 +1,90 @@
 
-<div align="center">
+<h1 align="center">Ved Mewada</h1>
 
-# 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ved+Mewada;Computer+Science+Engineering+Student+%40+VIT+Chennai;Full-Stack+Developer+%7C+Problem+Solver" />
+</p>
 
-**Ved Mewada**  
-Computer Science Engineering · VIT Chennai
+<p align="center">
+  <b>Computer Science Engineering · VIT Chennai</b>
+</p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ved-mewada-25bce1969/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 🌐 Socials
+  <a href="mailto:mewada.ved2025@vitstudent.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ved-mewada-25bce1969/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mewada.ved2025@vitstudent.ac.in)
-
----
-
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <a href="https://leetcode.com/u/Ved_mewada1/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">About</h2>
 
-<img src="https://github-readme-stats.shion.dev/api?username=Ved-mewada&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Ved-mewada&theme=dark&hide_border=false" />
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ved-mewada&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+- First-year CSE student at VIT Chennai.
+- Interested in full-stack development, DSA, and software engineering.
+- Building projects while strengthening CS fundamentals.
+- Exploring modern web technologies and backend systems.
 
 ---
 
-### ✍️ Random Dev Quote
+<h2 align="center">Tech Stack</h2>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,vercel,supabase,figma,vscode" />
+</p>
 
 ---
 
-## 💡 LeetCode
+<h2 align="center">GitHub Insights</h2>
 
-<img src="https://leetcard.jacoblin.cool/Ved_mewada1?theme=dark&font=Hubballi&ext=contest" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ved-mewada&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ved-mewada&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-mewada&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ved-mewada&theme=github-compact&hide_border=true&line=0A66C2&point=0A66C2&area=true"/>
+</p>
+
+---
+
+<h2 align="center">Core Interests</h2>
+
+- Full-stack web development
+- Data Structures & Algorithms
+- UI/UX Design
+- Backend APIs and Databases
+- Open Source and Collaboration
+
+---
+
+<h2 align="center">Learning Roadmap</h2>
+
+- Strengthening DSA with C++
+- Building production-ready projects
+- Learning React and Node.js
+- Exploring PostgreSQL and Supabase
+- Contributing to open source
+
+---
+
+<h2 align="center">LeetCode</h2>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Ved_mewada1?theme=dark&font=JetBrains+Mono&ext=contest"/>
+</p>
 
