@@ -15,4 +15,4 @@ Ved Mewada<br>Computer Science Engineering · VIT Chennai<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ved_mewada1?theme=dark&font=Hubballi&ext=contest)
